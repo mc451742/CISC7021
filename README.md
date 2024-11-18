@@ -1,6 +1,8 @@
 # CISC7021 Applied Natural Language Processing
 CISC7021 Group 50 Project Implementation Code
 
+Title: Emergent Analogy Reasoning in Tiny LLM
+
 Team member:
 
 Wenjia Tan (MC451432) mc45143@um.edu.mo
