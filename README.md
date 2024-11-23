@@ -1,7 +1,7 @@
 # CISC7021 Applied Natural Language Processing
 CISC7021 Group 50 Project Implementation Code
 
-Title: Emergent Analogy Reasoning in Tiny LLM
+Title: Emergent Analogy Reasoning in Tiny Large Language Model
 
 Team member:
 
