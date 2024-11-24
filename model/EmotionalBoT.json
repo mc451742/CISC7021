@@ -1,0 +1,1166 @@
+[
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "fear",
+        "problem_type": "academic pressure",
+        "situation": "I am very scared about next college semester it is frightening",
+        "dialog": [
+            {
+                "speaker": "supporter",
+                "annotation": {
+                    "strategy": "Question"
+                },
+                "content": "OK, sure. Can you tell me what the problem is? I'll do my best to help."
+            },
+            {
+                "speaker": "seeker",
+                "annotation": {
+                    "feedback": "5"
+                },
+                "content": "Well I am going into my next college semester next month, and I am very frightened about a calculus class I have to take. It's an honors course and I am very worried that I will not do well\n"
+            }]
+    },
+    {
+        "experience_type": "Previous Experience",
+        "emotion_type": "anxiety",
+        "problem_type": "academic pressure",
+        "situation": "I have a ton of tests and projects all due very soon and it is during a time in which I had not seen any friends and am feeling down. I feel very overwhelmed and sad.",
+        "dialog": [
+            {
+                "speaker": "supporter",
+                "annotation": {
+                    "strategy": "Reflection of feelings"
+                },
+                "content": "Procrastination never makes us feel good. If I keep putting something off, I then feel guilty. If I make a goal, and I reach it, I can put a reward. For example, if you study 3 subjects 1/2 hour each, you can go out for yogurt with a friend. So you reward yourself for sticking to that goal."
+            },
+            {
+                "speaker": "supporter",
+                "annotation": {
+                    "strategy": "Self-disclosure"
+                },
+                "content": "Yes, I did. lol I'm really old now. This technique I use in all my life. Even house chores, I break it down into a schedule, put it in writing, then check off what I do. Then I feel good about my accomplishments.\n"
+            },
+            {
+                "speaker": "seeker",
+                "annotation": {
+                    "feedback": "5"
+                },
+                "content": "Yes, that was my other question to you. It sounds great to just do a little time for each class but I often get overwhelmed and need a break"
+            },
+            {
+                "speaker": "seeker",
+                "annotation": {},
+                "content": "I have never used check lists or planners. I think it is part of how I get overwhelmed maybe."
+            }]
+    },
+    {
+        "experience_type": "Previous Experience",
+        "emotion_type": "anxiety",
+        "problem_type": "academic pressure",
+        "situation": "I have a ton of tests and projects all due very soon and it is during a time in which I had not seen any friends and am feeling down. I feel very overwhelmed and sad.",
+        "dialog": [    
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Information"
+            },
+            "content": "If you write your classes down and then write a reasonable time to study each one. Maybe 3 today, 3 tomorrow, then add rewards if you do that, maybe make a list of rewards, so you can pick and choose, then you check off when you do the subject.  Like a chore chart. "
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Yes haha. That is a good comparison. You have been super helpful. I will for sure try to use your advice. Thank you!"
+        }]
+    },
+    {
+        "experience_type": "Previous Experience",
+        "emotion_type": "anxiety",
+        "problem_type": "academic pressure",
+        "situation": "I have a ton of tests and projects all due very soon and it is during a time in which I had not seen any friends and am feeling down. I feel very overwhelmed and sad.",
+        "dialog": [
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Restatement or Paraphrasing"
+            },
+            "content": "So you have had a lot of stress with school lately and are struggling to keep yourself cheerful?"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Question"
+            },
+            "content": "Is there something in particular at school that is stressing you out? Exams? Relationships?\n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Yes! Its very hard to keep positive with all the work I have and I feel I am not doing well."
+        }]
+    },
+    {
+        "experience_type": "Previous Experience",
+        "emotion_type": "sadness",
+        "problem_type": "academic pressure",
+        "situation": "i cant do well in school and they mock me",
+        "dialog": [
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Affirmation and Reassurance"
+            },
+            "content": "I can understand why you would feel that way."
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Providing Suggestions"
+            },
+            "content": "You also sais there is a bully. Have you talked to anyone about this?"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Providing Suggestions"
+            },
+            "content": "Bringing this up to a teacher can help. Have you tried that?"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "none\n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "no one seems to listen \n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "cant get help from home am just depressed "
+        }]
+    },
+    {   "experience_type": "Current Experience",
+        "emotion_type": "depression",
+        "problem_type": "breakup with partner",
+        "situation": "I found out that my boyfriend had been lying to me about his entire life, and so the future that he had said we were building towards was all but impossible. I'm trying to figure out if I should stay with him.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "I'm debating. I don't know what to do.\n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "I feel like a schmuck.\n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "He has such pretty words.\n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Self-disclosure"
+            },
+            "content": "From personal experience I think that if they say they're going to get divorced and then drag their feet it is never going to happen. "
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "And he invests so much time and effort into us.\n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "I agree with you.\n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "My mind agrees.\n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "My stupid emotions are clouding things.\n"
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "anxiety",
+        "problem_type": "academic pressure",
+        "situation": "I have a huge test coming up soon and I don't think I am ready for it.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "Thank you! Do you think taking a practice exam would help?\n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Others"
+            },
+            "content": "yes I think a practice exam would be a great way to put you at ease and help you work on anything you might need to freshen up on."
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Ok, I will try that out. I appreciate talking to you I feel better already.\n"
+        }]
+    },
+    {   "experience_type": "Current Experience",
+        "emotion_type": "depression",
+        "problem_type": "breakup with partner",
+        "situation": "Its not even a break up, my girlfriend wants space after 5 years, she wants to rent a room on her own without me, and it feels over.",
+        "dialog": [
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Self-disclosure"
+            },
+            "content": "Only you are responsible for you. I was with someone who, although we had great fun together, he couldn't be with me as much as I wanted him to. And it made me feel bad. Because it brought up feelings from when I was growing up and neglected."
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Self-disclosure"
+            },
+            "content": "It took a long time, and it ...wasn't a clean break. I just got tired of feeling bad, and the relationship just waned. "
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Providing Suggestions"
+            },
+            "content": "Take the time you need, but you can take control, if you want to."
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Right, it just feels crappy right now. literally yesterday her mom was telling me how happy she is that i take such good care of her daughter. I will have to just prioritize myself and hope it all works out. after 5 years its just hard"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Restatement or Paraphrasing"
+            },
+            "content": "You said it, prioritize yourself. The rest will fall into place. It always does. "
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "thank you. i really appreciate it. i will do the best i can i promise."
+        }]
+    },
+    {   
+        "experience_type": "Previous Experience",
+        "emotion_type": "sadness",
+        "problem_type": "breakup with partner",
+        "situation": "i cheated on her",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "4"
+            },
+            "content": "ok, thats a good idea\n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Providing Suggestions"
+            },
+            "content": "There are also so many articles and support on the internet, don't be afraid to just search \"getting over a relationship\" or 'bad breakup advice\"  there are so many people that have gone through this. Ypu are not alone."
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Affirmation and Reassurance"
+            },
+            "content": "I know that nothing I say can take away your pain or make it not have happened, but I care that you have these feelings and I care about you.  "
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "thanks, i will \ncheck them out "
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "sadness",
+        "problem_type": "breakup with partner",
+        "situation": "I am break up with my girl friend she love other one because that guy better than me he's very rice and got lot of money.  She's breaking up with me and she slapped me.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "No, i don't have part planned.\n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "Yeah, i am feelin good my friend.\n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "Thank you very much.\n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Reflection of feelings"
+            },
+            "content": "I am very happy to hear that! I can see in your messages that you feel lighter."
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Others"
+            },
+            "content": "Thank you very much for talking with me. I've enjoyed this conversation!"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Okey, thank you my friend.\n"
+        }]
+    },
+    {
+        "experience_type": "Previous Experience",
+        "emotion_type": "sadness",
+        "problem_type": "breakup with partner",
+        "situation": "Current partner cheated on me in the past and I think he is doing it again.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "I am having such a difficult time today!!!"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Question"
+            },
+            "content": "Can you tell me what is going on? I should be able to help you"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "I think that my boyfriend is cheating on me again!!!"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Restatement or Paraphrasing"
+            },
+            "content": "Are you saying that he has cheated on you before? That does not sound very promising. "
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "He has but it was a long time ago and was before we had a talk about exclusivity in our relationship but it still hurt."
+        }]
+    },
+    {
+        "experience_type": "Previous Experience",
+        "emotion_type": "sadness",
+        "problem_type": "breakup with partner",
+        "situation": "Current partner cheated on me in the past and I think he is doing it again.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "Maybe but a place that we won't get paid to go... I think he thought of it as a job or something. I got a lot out of the experience and still use the skills to this day. But with a unresponsive partner those skills will not work. \n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "Can you recomend a good site to find affordable services?\n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Information"
+            },
+            "content": "You could ask your doctor to recommend something that will not cost you too much but will be effective? "
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "That is a great idea I had not thought of asking my dr.\n"
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "depression",
+        "problem_type": "job crisis",
+        "situation": "Lost my job in the lockdown",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "ok understood. Have you had any depression issues during lockdown ?\n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Affirmation and Reassurance"
+            },
+            "content": "Once again I a, sorry to hear that you are depressed. Make sure to go ouside everyday. I have learned that healthy doses of sunshine help.\nYes I have often felt helpless due this pandemic. "
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Reflection of feelings"
+            },
+            "content": "I will say though that exercise, movies and lots of coffee have helped me. "
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "I do tried watching movies in streaming platforms like Netflix and Prime. Did you tried the same ?\n"
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "anxiety",
+        "problem_type": "job crisis",
+        "situation": "I feel I am getting looked over for a promotion/raise at work and it is causing anxiety and fear that I don’t have longevity at my company and that I’m not being valued.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "I think so! I have a cordial relationship with everyone, but I know my work speaks for itself. I think I need more confidence to ask for what I know I deserve. "
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Self-disclosure"
+            },
+            "content": "Perhaps you could consider some sort of counselling to help you with you self esteem? I did it and it was great. "
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "That’s a really good idea. I think much of the anxiety I have with work stems from self esteem issues. "
+        }]
+
+    },
+    {
+        "experience_type": "Previous Experience",
+        "emotion_type": "anger",
+        "problem_type": "job crisis",
+        "situation": "I found out that my boss has not been paying me accurately.   I am so upset because I don't know what to do.  I feel like I should quit.",
+        "dialog": [
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Self-disclosure"
+            },
+            "content": "I can understand how you feel. Sometimes I let my anger get the best of me, but it is always important to remember to stay calm and think about your options and have a plan! "
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Others"
+            },
+            "content": "I hope things go well for you! "
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "And don't forget about asking for help! Sometimes that is the hardest part.  \n"
+        }]
+    },
+    {
+        "experience_type": "Previous Experience",
+        "emotion_type": "anxiety",
+        "problem_type": "job crisis",
+        "situation": "Ever since the insurgent of Covid-19 ,I was hit hard when I was relieved from my full-time job for a non justifiable reason. I blame it to Covid because business was slow and it affected production. I was so frustrated and I didn't know what next to do as I had past due bills and family to take care of. I started applying for government benefits none was fast coming forth and requires a lot of processing time. I later got a part-time job that the pay was low and i could not put up with the bills .it was really tough. I almost went into depression but I did not give up home. Recently I got a full-time job but I have been scared and anxious because they keep laying off employees  weekly. I wouldn't want to go through the terrible situation I had last time.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "How are you doing today?"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Question"
+            },
+            "content": "I am good. How may I assist you today!"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "I would love some words of encouragement"
+        }]
+    },
+    {
+        "experience_type": "Previous Experience",
+        "emotion_type": "sadness",
+        "problem_type": "job crisis",
+        "situation": "I have been laid out for not performing. But the acutal situation is the customer was satisfied my service. But the expectation of the management was not to do that.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "I think motivation, self-development, getting more qualified is of my attention nowadays.\n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Information"
+            },
+            "content": "I understand and believe you have a great focus on a career. I am proud of you and your focus ability. "
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Fish tank is a better option. I forgot that. That is why I am more believing in the third angle. Thank you.\n"
+        }]
+    },
+    {
+        "experience_type": "Previous Experience",
+        "emotion_type": "fear",
+        "problem_type": "job crisis",
+        "situation": "I've made an accident at work in warehouse and didn't report it",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Yeah I guess you are right. I just don't know what to do if I lose my job as now it's very hard to find a job\n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Affirmation and Reassurance"
+            },
+            "content": "Knowing the severity of the mistake, i think you should tell as good things come to people who are honest :)"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Providing Suggestions"
+            },
+            "content": "But about your depression, try to occupy yourself with more work and maybe your boss will see that you have changed your ways"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Well knowing me the luck is not always on my side"
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "sadness",
+        "problem_type": "job crisis",
+        "situation": "i am not abke to find work for over 6 months",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "what else can you recommend\n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Question"
+            },
+            "content": "Are you eligible for unemployment benefits?"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "no because I didnt lose my job coz of covid. \n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "is there anything else i can apply for\n"
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "shame",
+        "problem_type": "job crisis",
+        "situation": "I'm sad that my job is not fulfilling and I feel like I am wasting my life.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "I am a maintenance supervisor in a manufacturing facility."
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Self-disclosure"
+            },
+            "content": "I have had jobs that seemed pointless as well.   I was a sales assistant in a store constantly waiting for customers, it was boring!  Just a paycheque with no fulfillment.  I found it depressing as well."
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Restatement or Paraphrasing"
+            },
+            "content": "So it sounds like you are finding no point to going in to work, and it's making you feel sad, am I correct?"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Yes that is a very good summary of what is going on. And I am glad to see you can relate. While I am lucky to not work in sales since I know those jobs are extremely tough but the lack of reward is all the same."
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "depression",
+        "problem_type": "ongoing depression",
+        "situation": "Ex girlfriend issues.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "they have fathers. I am not involved like that. we had a short relationship and I am sure her girls will be bitter with me even tho i did the correct thing by turning her in. \n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "but the guilt from turning her in is terrible. \n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Affirmation and Reassurance"
+            },
+            "content": "You did the right thing. Would you have wanted the girls to end up as addicts, dead or in prison?"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "She was not a good person. So it makes it easy to not regret it. but i still feel guilty. guilt caused issues last month when this all started and came to a head. it was a mess. I was a mess. things happened. \n"
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "depression",
+        "problem_type": "ongoing depression",
+        "situation": "I am scared to open myself up to others such as men because I do not want my heart to be broken but it is also due to my insecurities about my looks and weight.  there is one guy who likes me that live in france but I am not sure if I should pursue him or not.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "he understands that im not meeting him no time soon but when the pandemic is over I do not know if I should continue to pursue him or not"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "I dont even have a passport and i care about my health and others im not traveling for a long time\n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Reflection of feelings"
+            },
+            "content": "So, I hear you saying that you are a bit wary of the relationship and do not know if it can work in the real world? "
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Yes because I do not have experience with Turkish men and I am scared of him being controlling and abusive I guess its due to sterotypes i read about and heard\n"
+        }]
+
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "anxiety",
+        "problem_type": "ongoing depression",
+        "situation": "I am very scare of this pandemic call COVID-19",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "4"
+            },
+            "content": "I don't like the noise of ambulance at all any time I see one I don't feel happy"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Affirmation and Reassurance"
+            },
+            "content": "I can understand an ambulance sound is hard to hear, but even that can be turned around. You can pray for the person, then switch your mind off. If you focus on the negative, you will stay negative. If you do what you can (pray) then there is nothing else to do. Focusing on the negative will depress you. "
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Self-disclosure"
+            },
+            "content": "One thing I did to help with depression is keep a checklist of things to do when I felt down:  call a friend, call a loved one to encourage THEM, go for a walk, eat fruits and veggies, read a book, go for a bike ride, etc.  Things like that, then I chose to do those things despite how I felt. Doing those things helped my mood TREMENDOUSLY> "
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Information"
+            },
+            "content": "Feelings follow thoughts. If you think negative thoughts, you will feel negative. If you think positive thoughts, you will feel positive. Sometimes this takes time, but it works.  Just because you feel sad doesn't mean you should just do nothing, a person can TALK their way out of sadness and choose to do something different. "
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Thanks your words of encouraging help me a lot"
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "shame",
+        "problem_type": "ongoing depression",
+        "situation": "Not being able to find a job after graduating from university",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Worst time to graduate\n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "Haven't even got the graduation ceremony lol\n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Affirmation and Reassurance"
+            },
+            "content": "all you can honestly really do right now is to try to improve your resume and see if that helps any and just keep searching for jobs and putting in applications and i know you will get a call from a job soon "
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Others"
+            },
+            "content": "yes it has been a bad year for anything to happen"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Yea that's what I am thinking of doing\n"
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "depression",
+        "problem_type": "ongoing depression",
+        "situation": "My husband and I constantly argue about discipline of our kids.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "I am feeling really down. \n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Restatement or Paraphrasing"
+            },
+            "content": "I'm sorry to hear you're feeling that way, what has you feeling this way?\n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "My husband and I have 4 kids. One of those children is a child from his previous marriage. We constantly argue about how he favors that child over our other 3."
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "depression",
+        "problem_type": "ongoing depression",
+        "situation": "my family neglected me",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "time is seriously hard, I'm thinking of other way to make money, before i finish my study\n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Question"
+            },
+            "content": "Are you in school and working at the same time? What have you found recently to make extra money?"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Providing Suggestions"
+            },
+            "content": "I have just started using ibotta for my groceries... its not much but once i think ive finally got it figured out. I've been on reddit the past few days looking for websites like mturk but I havent tried any that i feel compare yet. "
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "ok\n"
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "depression",
+        "problem_type": "ongoing depression",
+        "situation": "the pandemic",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "yes of course. \n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "just the sense of fear, anxiety, and paranoia. And helplessness and anguish that people are complacent and selfish and stupid. \n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "Keep reading up on exposure sites here like restaurants and gyms, and the culprits are those between 18-35 years old. \n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Self-disclosure"
+            },
+            "content": "I've had similar feelings also. People can be very selfish right now. That's normal to feel that way!"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Question"
+            },
+            "content": "How have you been coping with anxiety?"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "yeah. Like I am scared of being sick at anytime. It could h\nappen anytime. "
+        }]
+    },
+
+    {
+        "experience_type": "Previous Experience",
+        "emotion_type": "anger",
+        "problem_type": "problems with friends",
+        "situation": "my friend played a stupid prank that revealed my secret that i told him in private",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "i told him a secret about my self in private and he played a stupid pranks that reveals it to other people \ni don't like "
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Affirmation and Reassurance"
+            },
+            "content": "It's ok dear. did you asked him why he did that?"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "he said he was drunk\n"
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "sadness",
+        "problem_type": "problems with friends",
+        "situation": "I am stuck in my house to protect my family from covid. All of my friends don't include me/talk to me anymore because I am no longer able to participate in their activities during the pandemic. They all left me and they used to be my best friends.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "I never thought of that! That's is an amazing idea -- maybe I will look into that\n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "Thank you for talking with me today.\n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Others"
+            },
+            "content": "I am so glad I was able to help. Maybe we can try and set up another time to talk again?"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Sure!"
+        }]
+    },
+    {
+        "experience_type": "Previous Experience",
+        "emotion_type": "anger",
+        "problem_type": "problems with friends",
+        "situation": "I live with four friends/ housemates. I like them, but at the same time we are stuck together every day 24/7. Small things add up; I am getting increasingly annoyed by their behaviors and their inconsideration for others.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "Do you have similar experience. I would like to know what you think"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Providing Suggestions"
+            },
+            "content": "I am quarantined with one of my friends and you know we are around each other 24/7 now to that she lost her job due to the pandemic. It does drive me crazy sometimes because i want some alone time but all i can really do at this point is just go outside and take a walk or just sit outside and that helps me most the time."
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "I will do more of that. I guess we are all making sacrifices and learning how to cope "
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "anxiety",
+        "problem_type": "problems with friends",
+        "situation": "my friends refuse to take the pandemic seriously",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "4"
+            },
+            "content": "Yes, I take it very seriously. I lost my grandfather to the illness earlier in the year and I also contracted it. I was sicker than I ever have been and I still can't smell or taste."
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Affirmation and Reassurance"
+            },
+            "content": "Oh wow, I'm very sorry to hear that! I'm sorry for your loss. "
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Question"
+            },
+            "content": "Do your friends know that you were sick or that you lost a loved one?"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Yeah they do which is why it's so frustrating to hear them talk about it not being real. \n"
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "fear",
+        "problem_type": "problems with friends",
+        "situation": "I do not know  what Kingsley, my very close friend will be thinking right now. He asked me 1000 dollars that he will pay back in a week time, although I have the money but I have planned to get my wife a car  today.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "may be I should tell one of our friends that I think he is mad at me "
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Information"
+            },
+            "content": "if you are more comfortable texting him then i would suggest doing that but i would not just say nothing about you buying the car you should just let him know."
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "so, we can  both settle the matter, I did not have  enough money to borrow him at that time because of my initial plan for my wife "
+        }]
+        
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "fear",
+        "problem_type": "problems with friends",
+        "situation": "my best friend became phys-co and torturing all his friends by blackmailing all photos with him.he started with me also i got so much fear and issues",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "hii"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "could you please help to come out of fear from my friend who became physco"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Restatement or Paraphrasing"
+            },
+            "content": "i can imagine how you are feeling right now, but can you explain better how the situation is?"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "he is one of the best friends in the group .we are 10 members , when went to party after drunk he took pictures with us when we were half nude.Now he blackmailing by that phots and asking money "
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "anxiety",
+        "problem_type": "problems with friends",
+        "situation": "My youngest sister is battling with heroin addiction, and I am raising her two children.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "I have a romantic partner who helps.  I also have two of my own relatively young children.\n"
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "So, four in total.  \n"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Reflection of feelings"
+            },
+            "content": "That's a lot of children! It's great that you have a partner who can help you. "
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Self-disclosure"
+            },
+            "content": "A dear friend of mine is in rehab and had to give up her children, it is really awful to watch. It makes me feel so helpless, so i understand how you msut be feeling. "
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Thanks for being sympathetic and for the words of encouragement.  Yes, needless to say, Child Protective Services were involved, and I was granted Foster Parent status.  I'm sure your friend went down that road, sadly.\n"
+        }]
+    },
+    {
+        "experience_type": "Current Experience",
+        "emotion_type": "shame",
+        "problem_type": "problems with friends",
+        "situation": "My friends are  not taking the current pandemic seriously and often have get togethers.",
+        "dialog": [
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "We feel like after this is all over, they will still remind us that we were standoffish during this time."
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {},
+            "content": "And I agree. The longer we put it off and don't take it seriously, \nthe longer it will last."
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Others"
+            },
+            "content": "Can you tell them that that just isn't the case? You and your husband are making the right choice by staying home for the safety of yourselves and others. If I am correct, it has nothing to do with the fact that you don't want to see your pals and family!"
+        },
+        {
+            "speaker": "supporter",
+            "annotation": {
+                "strategy": "Reflection of feelings"
+            },
+            "content": "From chatting with you it sounds like your relationships with these people is incredibly important to you."
+        },
+        {
+            "speaker": "seeker",
+            "annotation": {
+                "feedback": "5"
+            },
+            "content": "Yes that's totally accurate.\n"
+        }]
+    }
+]    

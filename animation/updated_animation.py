@@ -1,7 +1,7 @@
 """
 CISC7021 Applied Natural Language Processing
 main animation
-Title: Emergent Analogy Reasoning in Tiny LLM
+Title: Harnessing Analogical Reasoning for Empathy: A Unified Framework for Enhancing Large Language Model
 Analogy Ability in Tiny LLM
 Simple Conversation Animation
 Chat Bot <-> Human User
@@ -31,7 +31,7 @@ def animation():
     # screen settings
     screen_width, screen_height = 1200, 800
     screen = pygame.display.set_mode((screen_width, screen_height))
-    pygame.display.set_caption("Emergent Analogy Reasoning in Tiny LLM")
+    pygame.display.set_caption("Harnessing Analogical Reasoning for Empathy: A Unified Framework for Enhancing Large Language Model")
 
     # colors
     WHITE = (255, 255, 255)
@@ -64,7 +64,7 @@ def animation():
 
     # function to draw title
     def draw_title(x, y):
-        text = font.render("Emergent Analogy Reasoning in Tiny LLM: Zero-shot Prompting Example", True, BLACK)
+        text = font.render("Zero-shot Prompting Example", True, BLACK)
         screen.blit(text, (x, y))
 
     # function to draw a message
@@ -136,7 +136,7 @@ def animation():
 
         # display title when animation starts
         if message_index == 0:
-            draw_title(15, 400)
+            draw_title(350, 400)
             # add extra frames to extend the display duration for title
             for _ in range(fps * 2):
                 frames.append(pygame.surfarray.array3d(screen))
