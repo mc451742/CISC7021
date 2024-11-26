@@ -1,7 +1,7 @@
 # CISC7021 Applied Natural Language Processing
 CISC7021 Group 50 Project Implementation Code
 
-Title: Harnessing Analogical Reasoning for Empathy: A Unified Framework for Enhancing Large Language Model
+Title: Harnessing Analogical Reasoning for Empathy: A Unified Framework for Enhancing Large Language Models
 
 The oral presentation is available at [YouTube](https://youtu.be/2KdLAMHYQ-0)
 
