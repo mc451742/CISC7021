@@ -13,7 +13,7 @@ Empathy generation in Large Language Models (LLMs) is a pivotal challenge in adv
 
 ## Team member
 
-[Wenjia Tan](https://github.com/wenjiatanplus) (MC451432) mc45143@um.edu.mo
+[Wenjia Tan](https://github.com/wenjiatanplus) (MC451431) mc45143@um.edu.mo
 
 [Junan Wang](https://github.com/AlessaJUAN) (MC450642) mc45064@um.edu.mo
 
