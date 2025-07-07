@@ -23,7 +23,7 @@ The project report is available at [Google Drive](https://drive.google.com/file/
 Tan, W., Wang, J., & Xie, Y. (n.d.). (rep.). Harnessing Analogical Reasoning for Empathy: A Unified Framework for Enhancing Large Language Models. 
 ```
 
-## ✨ Team member
+## ✨ Team Member
 
 [Wenjia Tan](https://github.com/wenjiatanplus) (MC451431) mc45143@um.edu.mo
 
