@@ -3,7 +3,7 @@
 **Harnessing Analogical Reasoning for Empathy: A Unified Framework for Enhancing Large Language Models**           
 > [Wenjia Tan](https://github.com/wenjiatanplus), [Junan Wang](https://github.com/AlessaJUAN), [Yumu Xie](https://github.com/mc451742)
 > 
-> CISC7021 Group 50 Project Implementation Code
+> 2024/2025 CISC7021 Group 50 Project Implementation Code
 
 ## 📜 Abstract
 
